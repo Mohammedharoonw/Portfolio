@@ -10,10 +10,13 @@ https://haroon-portfolio.netlify.app/
 
 OR
 To run Locally follow belo steps
+
  run  below command in your terminal cloning file
 
  git clone https://github.com/Mohammedharoonw/Portfolio.git
- and opne folder in vs then rum command yarn start
+ 
+ and open folder in vs then rum command yarn start
+ 
 yarn start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
